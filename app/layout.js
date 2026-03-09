@@ -2,7 +2,7 @@ import "../styles/globals.css";
 
 export const metadata = {
   title: "BROKEN LORD SCRAPER",
-  description: "Universal scraper dashboard"
+  description: "Universal scraper dashboard by Lord Broken"
 };
 
 export default function RootLayout({ children }) {
